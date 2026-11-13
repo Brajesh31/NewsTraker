@@ -1,0 +1,25 @@
+name: Bug report
+description: Report a reproducible NewsTraker issue.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Browser, Node.js and npm versions
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Sanitized console or server output
