@@ -70,4 +70,4 @@ Keep the NewsAPI key on the server and out of the React bundle. Restrict CORS to
 ## Contributing and license
 See [CONTRIBUTING.md](CONTRIBUTING.md). Licensed under MIT, see [LICENSE](LICENSE).
 
-Last updated: 2026-11-21 03:39 UTC
+Last updated: 2026-11-21 11:55 UTC
